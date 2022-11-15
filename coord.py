@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#Esse programa le as coordenas xyz do gmx traj do gromacs e plota em uma caixa 3D.Sendo Posivel vizualizar o rastro da mesma
+#Esse programa le as coordenadas xyz do gmx traj do gromacs e plota em uma caixa 3D. Tornando pPosivel visualizar o rastro da mesma.
 #Necessario salvar em .csv e colocar no cabecalho t1;x1;y1;z1
 ###############################################################################################################################
 #Criado por Flavia Assis#
