@@ -39,8 +39,8 @@ else:
  plt.ylim([0,float(box)])
  plt.xlim([0,float(box)])
  threedee.set_zlim(0,float(box))
- plt.show()
  plt.savefig(str(output)+'.png')
+ plt.show()
 
  print('**END**')
 
